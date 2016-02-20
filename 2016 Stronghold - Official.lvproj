@@ -134,6 +134,8 @@ AddOutputFilter chunkFilter
 		</Item>
 		<Item Name="Utilities" Type="Folder">
 			<Item Name="Create Deadband vi.vi" Type="VI" URL="../Utilities/Create Deadband vi.vi"/>
+			<Item Name="Toggle With Reset.vi" Type="VI" URL="../Utilities/Toggle With Reset.vi"/>
+			<Item Name="X360 Button Get Value.vi" Type="VI" URL="../Utilities/X360 Button Get Value.vi"/>
 		</Item>
 		<Item Name="WPI_5865" Type="Folder">
 			<Item Name="WPI_5865_RobotDriveOpen2MotorWithCANTalonSRX.vi" Type="VI" URL="../WPI_5865_RobotDriveOpen2MotorWithCANTalonSRX.vi"/>
